@@ -24,7 +24,7 @@ Spiral combined spiral movement. Just practicing math.
 
 Bonsai like tree. Also uses Perlin noise to simulate leaves falling. Practicing loading images and directing vector field.
 
-<img src="https://github.com/ospfranco/generative_rust/blob/main/imgs/04.png?raw=true" width="300"/>
+<img src="https://github.com/ospfranco/generative_rust/blob/main/imgs/04.png?raw=true" width="500"/>
 
 ## 05 Mandelbrot
 
